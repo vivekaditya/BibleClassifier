@@ -15,7 +15,9 @@ This project is heavly based on IPython notebook. requirements.txt has the requi
 
 ## Contents
 EDA - Do a simple exploratory data analysis.
+
 SkipThough and TfIdf vectorizer based classifiers - Embed the text information into a vector space and Classify based on KNN classifier.
+
 data - Folder contains both the initial tsv and the one with a new column **noun** added. 
 
 ## Algorithm/Features/Evaluation Metric
